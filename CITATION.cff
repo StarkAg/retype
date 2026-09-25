@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use retype in your work, please cite it."
+title: "retype: change text in scanned documents and photos using the document's own letters"
+authors:
+  - name: "Harsh Agarwal"
+repository-code: "https://github.com/StarkAg/retype"
+license: MIT
+version: 0.1.0
+date-released: 2026-09-25
+keywords:
+  - document image processing
+  - text replacement
+  - scene text editing
+  - typewriter
+  - handwriting

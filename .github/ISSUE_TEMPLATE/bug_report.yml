@@ -1,0 +1,25 @@
+name: Result doesn't look right
+description: A letter is broken, misplaced, or doesn't match the original
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: Command
+      description: The full retype command you ran
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Before / after
+      description: Drag in the input crop and `<name>_zoom.png`. Only share images you're allowed to share. Crop or blur anything private.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Console output
+      render: text
+  - type: input
+    attributes:
+      label: Kind of text
+      placeholder: typewriter / printed serif / ballpoint handwriting / stamp ...

@@ -1,0 +1,9 @@
+name: Feature request
+description: Suggest an improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: What would you like retype to do?
+    validations:
+      required: true

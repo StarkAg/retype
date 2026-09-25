@@ -272,10 +272,10 @@ class Retype:
         """
         m, n = len(pieces), len(chars)
         path = next((f for f in PROP_FONTS if os.path.exists(f)), None)
-        if path:
-            f = ImageFont.truetype(path, 100)
+        try:
+            f = ImageFont.truetype(path, 100) if path else ImageFont.load_default(100)
             ew = [max(8.0, f.getbbox(c)[2] - f.getbbox(c)[0]) for _, c in chars]
-        else:
+        except (OSError, TypeError):
             ew = [1.0] * n
         aw = [b - a + 1 for a, b in pieces]
         gaps = [pieces[i + 1][0] - pieces[i][1] - 1 for i in range(m - 1)]
