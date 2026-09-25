@@ -1,0 +1,96 @@
+{
+  "old": "Balance paid in full",
+  "new": "Balance due in full",
+  "layout": "proportional",
+  "pitch_or_advance_px": 21.5,
+  "letter_height_px": 25,
+  "tilt_deg": -1.82,
+  "letters": [
+    {
+      "pos": 0,
+      "char": "B",
+      "source": "copied with neighbours (source letter #1)"
+    },
+    {
+      "pos": 1,
+      "char": "a",
+      "source": "copied with neighbours (source letter #2)"
+    },
+    {
+      "pos": 2,
+      "char": "l",
+      "source": "copied with neighbours (source letter #3)"
+    },
+    {
+      "pos": 3,
+      "char": "a",
+      "source": "copied with neighbours (source letter #4)"
+    },
+    {
+      "pos": 4,
+      "char": "n",
+      "source": "copied with neighbours (source letter #5)"
+    },
+    {
+      "pos": 5,
+      "char": "c",
+      "source": "copied with neighbours (source letter #6)"
+    },
+    {
+      "pos": 6,
+      "char": "e",
+      "source": "copied with neighbours (source letter #7)"
+    },
+    {
+      "pos": 8,
+      "char": "d",
+      "source": "copied (source letter #11)"
+    },
+    {
+      "pos": 9,
+      "char": "u",
+      "source": "copied (source letter #15)"
+    },
+    {
+      "pos": 10,
+      "char": "e",
+      "source": "copied (source letter #7)"
+    },
+    {
+      "pos": 12,
+      "char": "i",
+      "source": "copied with neighbours (source letter #12)"
+    },
+    {
+      "pos": 13,
+      "char": "n",
+      "source": "copied with neighbours (source letter #13)"
+    },
+    {
+      "pos": 15,
+      "char": "f",
+      "source": "copied with neighbours (source letter #14)"
+    },
+    {
+      "pos": 16,
+      "char": "u",
+      "source": "copied with neighbours (source letter #15)"
+    },
+    {
+      "pos": 17,
+      "char": "l",
+      "source": "copied with neighbours (source letter #16)"
+    },
+    {
+      "pos": 18,
+      "char": "l",
+      "source": "copied with neighbours (source letter #17)"
+    }
+  ],
+  "notes": [
+    "line was tilted -1.82 deg; straightened while editing"
+  ],
+  "outputs": [
+    "handwriting_same_spacing.png"
+  ]
+}

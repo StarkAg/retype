@@ -1,0 +1,154 @@
+{
+  "old": "Certified true copy of the original",
+  "new": "Certified true copy of the ledger",
+  "layout": "proportional",
+  "pitch_or_advance_px": 15.5,
+  "letter_height_px": 26,
+  "tilt_deg": 0.0,
+  "letters": [
+    {
+      "pos": 0,
+      "char": "C",
+      "source": "copied with neighbours (source letter #1)"
+    },
+    {
+      "pos": 1,
+      "char": "e",
+      "source": "copied with neighbours (source letter #2)"
+    },
+    {
+      "pos": 2,
+      "char": "r",
+      "source": "copied with neighbours (source letter #3)"
+    },
+    {
+      "pos": 3,
+      "char": "t",
+      "source": "copied with neighbours (source letter #4)"
+    },
+    {
+      "pos": 4,
+      "char": "i",
+      "source": "copied with neighbours (source letter #5)"
+    },
+    {
+      "pos": 5,
+      "char": "f",
+      "source": "copied with neighbours (source letter #6)"
+    },
+    {
+      "pos": 6,
+      "char": "i",
+      "source": "copied with neighbours (source letter #7)"
+    },
+    {
+      "pos": 7,
+      "char": "e",
+      "source": "copied with neighbours (source letter #8)"
+    },
+    {
+      "pos": 8,
+      "char": "d",
+      "source": "copied with neighbours (source letter #9)"
+    },
+    {
+      "pos": 10,
+      "char": "t",
+      "source": "copied with neighbours (source letter #10)"
+    },
+    {
+      "pos": 11,
+      "char": "r",
+      "source": "copied with neighbours (source letter #11)"
+    },
+    {
+      "pos": 12,
+      "char": "u",
+      "source": "copied with neighbours (source letter #12)"
+    },
+    {
+      "pos": 13,
+      "char": "e",
+      "source": "copied with neighbours (source letter #13)"
+    },
+    {
+      "pos": 15,
+      "char": "c",
+      "source": "copied with neighbours (source letter #14)"
+    },
+    {
+      "pos": 16,
+      "char": "o",
+      "source": "copied with neighbours (source letter #15)"
+    },
+    {
+      "pos": 17,
+      "char": "p",
+      "source": "copied with neighbours (source letter #16)"
+    },
+    {
+      "pos": 18,
+      "char": "y",
+      "source": "copied with neighbours (source letter #17)"
+    },
+    {
+      "pos": 20,
+      "char": "o",
+      "source": "copied with neighbours (source letter #18)"
+    },
+    {
+      "pos": 21,
+      "char": "f",
+      "source": "copied with neighbours (source letter #19)"
+    },
+    {
+      "pos": 23,
+      "char": "t",
+      "source": "copied with neighbours (source letter #20)"
+    },
+    {
+      "pos": 24,
+      "char": "h",
+      "source": "copied with neighbours (source letter #21)"
+    },
+    {
+      "pos": 25,
+      "char": "e",
+      "source": "copied with neighbours (source letter #22)"
+    },
+    {
+      "pos": 27,
+      "char": "l",
+      "source": "copied (source letter #30)"
+    },
+    {
+      "pos": 28,
+      "char": "e",
+      "source": "copied with neighbours (source letter #8)"
+    },
+    {
+      "pos": 29,
+      "char": "d",
+      "source": "copied with neighbours (source letter #9)"
+    },
+    {
+      "pos": 30,
+      "char": "g",
+      "source": "copied (source letter #26)"
+    },
+    {
+      "pos": 31,
+      "char": "e",
+      "source": "copied with neighbours (source letter #2)"
+    },
+    {
+      "pos": 32,
+      "char": "r",
+      "source": "copied with neighbours (source letter #3)"
+    }
+  ],
+  "notes": [],
+  "outputs": [
+    "printed_same_spacing.png"
+  ]
+}

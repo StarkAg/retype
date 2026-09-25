@@ -1,0 +1,112 @@
+{
+  "old": "RECEIVED WITH THANKS",
+  "new": "RECEIVED WITH REGARDS",
+  "layout": "mono",
+  "pitch_or_advance_px": 30.0,
+  "letter_height_px": 25,
+  "tilt_deg": 0.0,
+  "letters": [
+    {
+      "pos": 0,
+      "char": "R",
+      "source": "copied with neighbours (source letter #1)"
+    },
+    {
+      "pos": 1,
+      "char": "E",
+      "source": "copied with neighbours (source letter #2)"
+    },
+    {
+      "pos": 2,
+      "char": "C",
+      "source": "copied with neighbours (source letter #3)"
+    },
+    {
+      "pos": 3,
+      "char": "E",
+      "source": "copied with neighbours (source letter #4)"
+    },
+    {
+      "pos": 4,
+      "char": "I",
+      "source": "copied with neighbours (source letter #5)"
+    },
+    {
+      "pos": 5,
+      "char": "V",
+      "source": "copied with neighbours (source letter #6)"
+    },
+    {
+      "pos": 6,
+      "char": "E",
+      "source": "copied with neighbours (source letter #7)"
+    },
+    {
+      "pos": 7,
+      "char": "D",
+      "source": "copied with neighbours (source letter #8)"
+    },
+    {
+      "pos": 9,
+      "char": "W",
+      "source": "copied with neighbours (source letter #9)"
+    },
+    {
+      "pos": 10,
+      "char": "I",
+      "source": "copied with neighbours (source letter #10)"
+    },
+    {
+      "pos": 11,
+      "char": "T",
+      "source": "copied with neighbours (source letter #11)"
+    },
+    {
+      "pos": 12,
+      "char": "H",
+      "source": "copied with neighbours (source letter #12)"
+    },
+    {
+      "pos": 14,
+      "char": "R",
+      "source": "copied with neighbours (source letter #1)"
+    },
+    {
+      "pos": 15,
+      "char": "E",
+      "source": "copied with neighbours (source letter #2)"
+    },
+    {
+      "pos": 16,
+      "char": "G",
+      "source": "FONT FALLBACK (Courier New Bold.ttf) - check closely, try --font"
+    },
+    {
+      "pos": 17,
+      "char": "A",
+      "source": "copied (source letter #15)"
+    },
+    {
+      "pos": 18,
+      "char": "R",
+      "source": "copied (source letter #1)"
+    },
+    {
+      "pos": 19,
+      "char": "D",
+      "source": "copied (source letter #8)"
+    },
+    {
+      "pos": 20,
+      "char": "S",
+      "source": "copied (source letter #18)"
+    }
+  ],
+  "notes": [
+    "fit_width: pitch 28.6px instead of 30.0px"
+  ],
+  "outputs": [
+    "typewriter_same_spacing.png",
+    "typewriter_fit_width.png"
+  ]
+}
